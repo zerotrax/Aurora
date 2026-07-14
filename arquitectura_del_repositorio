@@ -1,0 +1,60 @@
+Aurora/
+│
+├── README.md
+│
+├── 00_Vision/
+│   ├── Que_es_Aurora.md
+│   ├── Mision.md
+│   └── Principios.md
+│
+├── 01_Metodologia/
+│   ├── Forma_de_trabajar.md
+│   ├── Aprendizaje.md
+│   ├── Investigacion.md
+│   ├── Resolucion_de_problemas.md
+│   └── Toma_de_decisiones.md
+│
+├── 02_Protocolos/
+│   ├── Sistema_Veritas.md
+│   ├── Protocolo_Pirata.md
+│   ├── Protocolo_Hangar.md
+│   └── Normas_de_interaccion.md
+│
+├── 03_Herramientas/
+│   ├── Documentacion.md
+│   ├── Gestion_de_contexto.md
+│   ├── Uso_de_IA.md
+│   └── Automatizacion.md
+│
+├── 04_Plantillas/
+│   │
+│   ├── Sesiones/
+│   │   ├── Plantilla_Sesion.md
+│   │   └── Informe_Sesion.md
+│   │
+│   ├── Proyectos/
+│   │   ├── Plantilla_Proyecto.md
+│   │   └── Analisis_Proyecto.md
+│   │
+│   └── Documentacion/
+│       ├── Aplicacion.md
+│       └── Tecnologia.md
+│
+├── 05_Casos_de_estudio/
+│   │
+│   └── Sentinel/
+│       ├── Inicio.md
+│       ├── Evolucion.md
+│       └── Decisiones.md
+│
+├── 06_Contexto/
+│   ├── Glosario.md
+│   ├── Conceptos.md
+│   └── Referencias.md
+│
+├── 07_Evolucion/
+│   ├── Cambios.md
+│   ├── Versiones.md
+│   └── Ideas_futuras.md
+│
+└── LICENSE
